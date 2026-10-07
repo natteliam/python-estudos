@@ -1,4 +1,4 @@
-#Primeiramente coletamos os dados do pet.
+#Primeiramente coletamos os dados do pet (cão).
 nome_pet = input("Digite o nome do pet: ").strip().title()
 peso_pet = float(input("Digite o peso do pet: ").replace(",", "."))
 castrado = input("Castração (sim/não): ").lower()
@@ -31,7 +31,7 @@ def calcular_kcal(peso_pet):
 
     return kcal
 
-#Vamos converter a variável calorias a partir da função criada.
+#Vamos converter a variável calorias a partir da função criada acima.
 calorias = calcular_kcal(peso_pet)
 
 #Imprime o resultado.
