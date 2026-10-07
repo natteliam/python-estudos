@@ -25,7 +25,7 @@ Neste repositório estão alguns dos projetos e exercícios que desenvolvi duran
 
 Meu objetivo é aprender Python de forma consistente, desenvolvendo raciocínio lógico e capacidade de resolver problemas com programação.
 
-Tenho interesse especial em desenvolvimento backend e pretendo continuar expandindo este repositório conforme avanço nos estudos.
+Tenho interesse em desenvolvimento backend e pretendo continuar expandindo este repositório conforme avanço nos estudos.
 
 ## 🚀 Status
 
