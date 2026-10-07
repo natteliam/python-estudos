@@ -42,7 +42,7 @@ def validar_atividade(resposta):
     while resposta not in ["baixo", "médio", "alto", "muito alto"]:
         print(
             f"\n"
-            f"Resposta inválida, responda com baixo, médio, alto ou muito alto.\n"
+            f"Resposta inválida, responda com baixo, médio, alto ou muito alto."
         )
         resposta = input("Lembre-se da acentuação! Digite novamente: \n").lower().strip()
 
